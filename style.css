@@ -1,0 +1,53 @@
+/* * { 
+
+} */
+footer {
+    margin-bottom: 0px;
+}
+.bottom {
+    background-color: black;
+    color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    justify-content: space-evenly;
+}
+.map {
+    width: 250px;
+    padding: 2%;
+    padding-left: 20px;
+    padding-top: -10px;
+}
+.mapimg {
+    width: 200px;
+}
+.footinfo {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    font: .6em;
+}
+.footareas {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    font: .6em;
+}
+.social {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    font: .6em;
+}
+.foothead {
+    font-size: 2em;
+}
+.tiny {
+    margin: 3px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
